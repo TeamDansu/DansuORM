@@ -1,0 +1,8 @@
+/build/
+/demo/.godot/
+/demo/bin/*.dll
+/demo/bin/*.exp
+/demo/bin/*.ilk
+/demo/bin/*.lib
+/demo/bin/*.pdb
+
